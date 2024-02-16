@@ -1,0 +1,79 @@
+
+
+#overlogo {
+    color:#faf62e;
+    float: left;
+    text-decoration: overline;
+}
+
+h2{
+    float: left;
+    color: lightblue;
+}
+
+h3{
+    position: relative;
+}
+
+#giant{
+    font-size: xx-large;
+}
+
+.header{
+    height: 200px;
+    width: auto;
+    padding: 20px 20px;
+    border: 1px solid #4b0707;
+    background-color: #101010;
+}
+
+p{
+    font-size: large;
+    float: right;
+}
+
+.logo{
+    height: 80px;
+    background-color: #faf62e;
+}
+.logo:hover{
+    background-color: #5eb8f0;
+
+}
+
+.logos{
+    height: 80px;
+    background-color: #55ca4d;
+}
+.zetus{
+    height: 80px;
+    background-color: #0d00ff;
+}
+.navigation{
+    float: right;
+
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding:10px 20px;
+
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: rgb(255, 37, 37);
+    color: #101010;
+}
+
+.content{
+    image-rendering: crisp-edges;
+}
